@@ -28,7 +28,6 @@
 
 </div>
 
-
 <br/>
 
 <div align="center"> 
@@ -45,6 +44,15 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+</div>
+
+<hr/>
+
+<h2 align="center">🎓 Education 🎓</h2>
+<br/>
+<div align="center">
+  <p><b>Nasarawa State University, Keffi (NSUK)</b></p>
+  <p>BSc in Computer Science, <i>2023 – 2027</i></p>
 </div>
 
 <hr/>
@@ -80,5 +88,4 @@
 </div>
 
 <br/><br/>
-
 <hr/>
