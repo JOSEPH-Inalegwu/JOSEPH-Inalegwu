@@ -76,12 +76,9 @@
 <hr/>
 
 <div align="center">
-<a href="https://josephjonah.vercel.app" target="_blank">
-  <img height="64" style="border:0px;height:64px;" 
-       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" 
-       alt="Portfolio" /> 
-  <img height="64" style="border:0px;height:64px;" 
-       src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logoColor=white" 
-       alt="Visit My Portfolio" />
-</a>
+  <a href="https://josephjonah.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/JOSEPH-Inalegwu/JOSEPH-Inalegwu/main/asset/banner.png" 
+         alt="Powering Web Development with Intelligence" 
+         style="max-width: 100%; border-radius: 8px;" />
+  </a>
 </div>
