@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://josephjonah.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/JOSEPH-Inalegwu/JOSEPH-Inalegwu/main/asset/banner.png" 
+         alt="Powering Web Development with Intelligence" 
+         style="max-width: 100%; border-radius: 8px;" />
+  </a>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JOSEPH-Inalegwu.JOSEPH-Inalegwu" />
 
 <h1 align="center">
@@ -74,11 +82,3 @@
 <br/><br/>
 
 <hr/>
-
-<div align="center">
-  <a href="https://josephjonah.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/JOSEPH-Inalegwu/JOSEPH-Inalegwu/main/asset/banner.png" 
-         alt="Powering Web Development with Intelligence" 
-         style="max-width: 100%; border-radius: 8px;" />
-  </a>
-</div>
