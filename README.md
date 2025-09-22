@@ -27,8 +27,11 @@
   <a href="mailto:josephjonahinalegwu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/joseph-inalegwu" target="_blank">
+  <a href="www.linkedin.com/in/inalegwu-joseph-jonah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/JOSEPH-Inalegwu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
  <a href="https://josephjonah.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -53,7 +56,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JOSEPH-Inalegwu/JOSEPH-Inalegwu/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" 
+     src="https://raw.githubusercontent.com/JOSEPH-Inalegwu/JOSEPH-Inalegwu/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr/>
@@ -72,5 +76,12 @@
 <hr/>
 
 <div align="center">
-<a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://josephjonah.vercel.app" target="_blank">
+  <img height="64" style="border:0px;height:64px;" 
+       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" 
+       alt="Portfolio" /> 
+  <img height="64" style="border:0px;height:64px;" 
+       src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logoColor=white" 
+       alt="Visit My Portfolio" />
+</a>
 </div>
